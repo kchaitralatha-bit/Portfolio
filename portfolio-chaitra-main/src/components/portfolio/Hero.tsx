@@ -152,7 +152,7 @@ export default function Hero() {
                 View Projects
               </MagneticButton>
               <motion.a
-                href="/resume"
+                href="/K_Chaitra_Latha_Resume.pdf"
                 whileHover={{ scale: 1.05, y: -2 }}
                 whileTap={{ scale: 0.97 }}
                 className="inline-flex items-center gap-2 px-7 py-3.5 rounded-xl font-semibold text-sm transition-all duration-300 glass-card text-foreground"
