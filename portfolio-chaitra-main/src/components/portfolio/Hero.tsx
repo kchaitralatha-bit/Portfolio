@@ -69,7 +69,7 @@ export default function Hero() {
                   backgroundImage: "linear-gradient(135deg, hsl(var(--neon-cyan)), hsl(var(--neon-purple)))",
                 }}
               >
-                Chaitra Latha
+               K Chaitra Latha
               </span>
             </motion.h1>
 

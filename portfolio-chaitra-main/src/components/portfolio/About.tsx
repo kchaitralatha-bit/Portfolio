@@ -52,7 +52,7 @@ export default function About() {
             className="lg:col-span-3 space-y-4"
           >
             <p className="text-lg text-foreground/80 leading-relaxed mb-2">
-              I'm <span className="text-neon-cyan font-semibold">Chaitra Latha</span> — a results-driven{" "}
+              I'm <span className="text-neon-cyan font-semibold">K Chaitra Latha</span> — a results-driven{" "}
               <span className="text-foreground font-semibold">AI & Machine Learning Developer</span>,
               Data Scientist, and Software Developer based in Bangalore, India.
             </p>
